@@ -38,11 +38,5 @@ Please refer to the lab slides: [Version Control & Debugger][2] for a complete t
 
 
 
-## Deadline
-
-Sumbit your work before **2016/3/30 (Wed.) 23:59:59**.
-
-Late submissions **WILL NOT** be accepted.
-
 [1]: http://shwu10.cs.nthu.edu.tw/2016-software-studio/assignment-3-basic-collections
 [2]: http://shwu10.cs.nthu.edu.tw/2016-software-studio/release-slides/raw/master/03_Lab_VCS_Debugger-copy-2.pdf
